@@ -1,5 +1,7 @@
 # Plagiarism Project, Machine Learning Deployment
 
+Project solution is developed by  **Carlos Sanmiguel Vila**
+
 This repository contains code and associated files for deploying a plagiarism detector using AWS SageMaker.
 
 ## Project Overview
